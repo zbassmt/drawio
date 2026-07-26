@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="l4l_Ot-H-wDTrCknJcNh">
-    <mxGraphModel dx="595" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="911" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,64 +271,147 @@
         <mxCell id="8IZa8Z63o_1mmdRt4qon-149" parent="8IZa8Z63o_1mmdRt4qon-153" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="过程交互xx" vertex="1">
           <mxGeometry height="25" width="95" x="112.5" y="62" as="geometry" />
         </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-156" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="170" width="250" x="563.25" y="1100" as="geometry" />
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-193" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="255" width="540" x="290" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-157" parent="8IZa8Z63o_1mmdRt4qon-156" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;container=0;" value="" vertex="1">
-          <mxGeometry height="150" width="250" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-158" parent="8IZa8Z63o_1mmdRt4qon-156" style="rounded=1;whiteSpace=wrap;html=1;container=0;" value="关键因素识别" vertex="1">
-          <mxGeometry height="30" width="90" x="80" as="geometry" />
-        </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;container=0;" value="" vertex="1">
-          <mxGeometry height="150" width="182.5" x="310" y="1120" as="geometry" />
-        </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-160" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;dropTarget=0;container=0;allowArrows=0;treeMoving=1;" value="多主体协同公共图书馆数字素养教育效能检查构建研究" vertex="1">
-          <mxGeometry height="255" width="540" x="258" y="1470" as="geometry">
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-160" parent="8IZa8Z63o_1mmdRt4qon-193" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;dropTarget=0;container=0;allowArrows=0;treeMoving=1;" value="协同共创下公共图书馆数字素养教育xx机制研究" vertex="1">
+          <mxGeometry height="255" width="540" as="geometry">
             <mxRectangle height="40" width="280" x="110" y="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-161" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="用户公共图书馆服务" vertex="1">
-          <mxGeometry height="90" width="60" x="332.5" y="1150" as="geometry" />
-        </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-162" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-162" edge="1" parent="8IZa8Z63o_1mmdRt4qon-193" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="510.5" y="1192.23" as="sourcePoint" />
-            <mxPoint x="550.5" y="1192.23" as="targetPoint" />
+            <mxPoint x="309" y="160" as="sourcePoint" />
+            <mxPoint x="349" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;container=0;" value="效能影响因素" vertex="1">
-          <mxGeometry height="30" width="90" x="351.25" y="1100" as="geometry" />
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-191" connectable="0" parent="8IZa8Z63o_1mmdRt4qon-193" style="group" value="" vertex="1">
+          <mxGeometry height="180" width="137.25" x="370.125" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-164" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="资源管理环境" vertex="1">
-          <mxGeometry height="90" width="60" x="412.5" y="1150" as="geometry" />
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-157" parent="8IZa8Z63o_1mmdRt4qon-191" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;container=0;" value="" vertex="1">
+          <mxGeometry height="160" width="137.25" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-165" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="118" width="207.5" x="584.5" y="1139.2" as="geometry" />
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-158" parent="8IZa8Z63o_1mmdRt4qon-191" style="rounded=1;whiteSpace=wrap;html=1;container=0;" value="关键因素识别" vertex="1">
+          <mxGeometry height="30" width="90" x="23.625" as="geometry" />
         </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-166" parent="8IZa8Z63o_1mmdRt4qon-165" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="效用价值整合" vertex="1">
-          <mxGeometry height="25" width="95" y="31" as="geometry" />
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-166" parent="8IZa8Z63o_1mmdRt4qon-191" style="rounded=0;whiteSpace=wrap;html=1;container=0;flipV=0;legacyAnchorPoints=0;" value="教育内容整合" vertex="1">
+          <mxGeometry height="25" width="95" x="21.125" y="91.32999999999993" as="geometry" />
         </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-167" parent="8IZa8Z63o_1mmdRt4qon-165" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="内容传递运营" vertex="1">
-          <mxGeometry height="25" width="95" y="93" as="geometry" />
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-167" parent="8IZa8Z63o_1mmdRt4qon-191" style="rounded=0;whiteSpace=wrap;html=1;container=0;flipV=0;legacyAnchorPoints=0;" value="情感关键中介" vertex="1">
+          <mxGeometry height="25" width="95" x="21.125" y="137.66000000000008" as="geometry" />
         </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-168" parent="8IZa8Z63o_1mmdRt4qon-165" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="培训与激励" vertex="1">
-          <mxGeometry height="25" width="95" as="geometry" />
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-168" parent="8IZa8Z63o_1mmdRt4qon-191" style="rounded=0;whiteSpace=wrap;html=1;container=0;flipV=0;legacyAnchorPoints=0;" value="感知xxxx" vertex="1">
+          <mxGeometry height="25" width="95" x="21.125" y="44.330000000000155" as="geometry" />
         </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-169" parent="8IZa8Z63o_1mmdRt4qon-165" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="xxxx" vertex="1">
-          <mxGeometry height="25" width="95" y="62" as="geometry" />
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-192" connectable="0" parent="8IZa8Z63o_1mmdRt4qon-193" style="group" value="" vertex="1">
+          <mxGeometry height="178.65999999999985" width="260" x="30" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-170" parent="8IZa8Z63o_1mmdRt4qon-165" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="主题形式xx" vertex="1">
-          <mxGeometry height="25" width="95" x="112.5" y="31" as="geometry" />
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-159" parent="8IZa8Z63o_1mmdRt4qon-192" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;container=0;" value="" vertex="1">
+          <mxGeometry height="160" width="260" y="18.659999999999854" as="geometry" />
         </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-171" parent="8IZa8Z63o_1mmdRt4qon-165" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="空间教学xx" vertex="1">
-          <mxGeometry height="25" width="95" x="112.5" y="93" as="geometry" />
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-163" parent="8IZa8Z63o_1mmdRt4qon-192" style="rounded=1;whiteSpace=wrap;html=1;container=0;" value="用户价值共创行为因素识别" vertex="1">
+          <mxGeometry height="30" width="164.38" x="47.81" as="geometry" />
         </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-172" parent="8IZa8Z63o_1mmdRt4qon-165" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="专业教学能力" vertex="1">
-          <mxGeometry height="25" width="95" x="112.5" as="geometry" />
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-175" parent="8IZa8Z63o_1mmdRt4qon-192" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="感知认知xx" vertex="1">
+          <mxGeometry height="25" width="100" x="20" y="75.65999999999985" as="geometry" />
         </mxCell>
-        <mxCell id="8IZa8Z63o_1mmdRt4qon-173" parent="8IZa8Z63o_1mmdRt4qon-165" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="过程交互xx" vertex="1">
-          <mxGeometry height="25" width="95" x="112.5" y="62" as="geometry" />
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-176" parent="8IZa8Z63o_1mmdRt4qon-192" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="感知共情" vertex="1">
+          <mxGeometry height="25" width="100" x="20" y="137.65999999999985" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-177" parent="8IZa8Z63o_1mmdRt4qon-192" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="感知物理xx" vertex="1">
+          <mxGeometry height="25" width="100" x="20" y="44.659999999999854" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-178" parent="8IZa8Z63o_1mmdRt4qon-192" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="感知控制xx" vertex="1">
+          <mxGeometry height="25" width="100" x="20" y="106.65999999999985" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-179" parent="8IZa8Z63o_1mmdRt4qon-192" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="教育环境整体适应" vertex="1">
+          <mxGeometry height="25" width="100" x="139.5" y="75.65999999999985" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-180" parent="8IZa8Z63o_1mmdRt4qon-192" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="教育信任" vertex="1">
+          <mxGeometry height="25" width="100" x="139.5" y="137.65999999999985" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-181" parent="8IZa8Z63o_1mmdRt4qon-192" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="教育服务互动匹配" vertex="1">
+          <mxGeometry height="25" width="100" x="139.5" y="44.659999999999854" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-182" parent="8IZa8Z63o_1mmdRt4qon-192" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="教育内容资源契合" vertex="1">
+          <mxGeometry height="25" width="100" x="139.5" y="106.65999999999985" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-235" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="230" width="540" x="287" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-231" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="130" width="100" x="273" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-195" parent="8IZa8Z63o_1mmdRt4qon-235" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;dropTarget=0;container=0;allowArrows=0;treeMoving=1;" value="交互协同下公共图书馆数字素养教育评价研究" vertex="1">
+          <mxGeometry height="230" width="540" as="geometry">
+            <mxRectangle height="40" width="280" x="110" y="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-226" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=0;whiteSpace=wrap;html=1;" value="大模型赋值" vertex="1">
+          <mxGeometry height="30" width="80" x="284" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-227" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=0;whiteSpace=wrap;html=1;" value="人类专家赋值" vertex="1">
+          <mxGeometry height="30" width="80" x="284" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-215" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;container=0;" value="" vertex="1">
+          <mxGeometry height="130" width="100" x="420" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-216" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=0;whiteSpace=wrap;html=1;container=0;flipV=1;legacyAnchorPoints=0;" value="教育情境" vertex="1">
+          <mxGeometry height="25" width="62.5" x="438.75" y="133" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-218" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=0;whiteSpace=wrap;html=1;container=0;flipV=1;legacyAnchorPoints=0;" value="教育体验" vertex="1">
+          <mxGeometry height="25" width="62.5" x="438.75" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-219" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=1;whiteSpace=wrap;html=1;container=0;" value="指标权重" vertex="1">
+          <mxGeometry height="30" width="72" x="287" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-220" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=0;whiteSpace=wrap;html=1;container=0;flipV=1;legacyAnchorPoints=0;" value="教育价值" vertex="1">
+          <mxGeometry height="25" width="62.5" x="438.75" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-228" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=1;whiteSpace=wrap;html=1;container=0;" value="实际测评" vertex="1">
+          <mxGeometry height="30" width="66.25" x="436.75" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-232" edge="1" parent="8IZa8Z63o_1mmdRt4qon-235" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8.095238095238095;endSize=4.8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="236" y="140" as="sourcePoint" />
+            <mxPoint x="266" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-234" edge="1" parent="8IZa8Z63o_1mmdRt4qon-235" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8.095238095238095;endSize=4.8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="140" as="sourcePoint" />
+            <mxPoint x="410" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-229" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="130" width="210" x="17" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-205" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=1;whiteSpace=wrap;html=1;" value="评价指标体系构建" vertex="1">
+          <mxGeometry height="30" width="130" x="57" y="59" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-206" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=0;whiteSpace=wrap;html=1;" value="依据" vertex="1">
+          <mxGeometry height="25" width="50" x="30.5" y="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-207" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=0;whiteSpace=wrap;html=1;" value="原则" vertex="1">
+          <mxGeometry height="25" width="50" x="30.5" y="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-208" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=0;whiteSpace=wrap;html=1;" value="基于文献" vertex="1">
+          <mxGeometry height="25" width="95" x="124.5" y="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-209" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=0;whiteSpace=wrap;html=1;" value="现实" vertex="1">
+          <mxGeometry height="25" width="50" x="30.5" y="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-224" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=0;whiteSpace=wrap;html=1;" value="基于扎根分析" vertex="1">
+          <mxGeometry height="25" width="95" x="124.5" y="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-225" parent="8IZa8Z63o_1mmdRt4qon-235" style="rounded=0;whiteSpace=wrap;html=1;" value="基于德尔菲法" vertex="1">
+          <mxGeometry height="25" width="95" x="124.5" y="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-230" edge="1" parent="8IZa8Z63o_1mmdRt4qon-235" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8.095238095238095;endSize=4.8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="88.5" y="140" as="sourcePoint" />
+            <mxPoint x="118.5" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
