@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="l4l_Ot-H-wDTrCknJcNh">
-    <mxGraphModel dx="1407" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="673" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -528,6 +528,24 @@
         </mxCell>
         <mxCell id="8IZa8Z63o_1mmdRt4qon-290" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="公共图书馆数字素养协同创新路径" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-300" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="实地调查&lt;div&gt;网络调查&lt;/div&gt;&lt;div&gt;比较分析&lt;/div&gt;&lt;div&gt;系统性文献综述&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="110" x="870" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-302" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="访谈&lt;div&gt;扎根编码&lt;/div&gt;&lt;div&gt;问卷调查&lt;/div&gt;&lt;div&gt;KANO模型&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="110" x="870" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-303" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="访谈&lt;div&gt;扎根编码&lt;/div&gt;&lt;div&gt;模糊集&lt;/div&gt;&lt;div&gt;DEMATEL方法&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="110" x="870" y="807.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-305" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="访谈&lt;div&gt;扎根编码&lt;/div&gt;&lt;div&gt;结构方程模型&lt;/div&gt;&lt;div&gt;假设检验&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="110" x="870" y="1087.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-306" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文献调研&lt;div&gt;实地调研&lt;/div&gt;&lt;div&gt;德尔菲&lt;/div&gt;&lt;div&gt;专家问卷&lt;/div&gt;&lt;div&gt;用户问卷&lt;/div&gt;&lt;div&gt;模糊综合评价&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="110" x="870" y="1355" as="geometry" />
+        </mxCell>
+        <mxCell id="8IZa8Z63o_1mmdRt4qon-307" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="案例研究&lt;div&gt;扎根编码&lt;/div&gt;&lt;div&gt;fsQCA&lt;/div&gt;&lt;div&gt;主题分析&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="110" x="870" y="1650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
